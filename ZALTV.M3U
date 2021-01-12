@@ -1,10 +1,10 @@
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHLsdb5/Hoy.png"  group-title="DEPORTES", Gomez - Bein Sport
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CvSppJD/hoy1.png"  group-title="DEPORTES", Gomez - Bein Sport
 http://globaltvplus.club:25461/live/UniversalpIus/pass003/139.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHLsdb5/Hoy.png"  group-title="DEPORTES", Gomez - Movistar 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CvSppJD/hoy1.png"  group-title="DEPORTES", Gomez - Movistar 
 https://live.budtv-ultra.com:934/m34ldwwq3ULTRA/3243dwaf4443/85_.m3u8 
 
-#EXTINF:-1 tvg-logo="https://ibb.co/ZNQfT4J"  group-title="DEPORTES", Gomez - Directv Sur
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CvSppJD/hoy1.png"  group-title="DEPORTES", Gomez - Directv Sur
 http://globaltvplus.club:25461/live/UniversalpIus/pass003/151.m3u8
 
 #EXTINF:-1 tvg-logo="https://ibb.co/ZNQfT4J"  group-title="DEPORTES", Gomez - TUDN
@@ -197,9 +197,9 @@ http://212.102.60.121:8000/movie/Demo25478/a1FnZIdI8G/67023.mkv
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Club_Deportivo_Luis_%C3%81ngel_Firpo#/media/Archivo:CD_Luis_Angel_Firpo.png"  group-title="VOD - Movies", Gomez - Venganza Implacable
 http://212.102.60.121:8000/movie/Demo25478/a1FnZIdI8G/67027.mkv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHLsdb5/Hoy.png"  group-title="All Channel", Gomez
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CvSppJD/hoy1.png"  group-title="All Channel", Gomez
 https://live.budtv-ultra.com:934/m34ldwwq3ULTRA/3243dwaf4443/1_.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHLsdb5/Hoy.png"  group-title="All Channel", Gomez
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CvSppJD/hoy1.png"  group-title="All Channel", Gomez
 https://live.budtv-ultra.com:934/m34ldwwq3ULTRA/3243dwaf4443/2_.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHLsdb5/Hoy.png"  group-title="All Channel", Gomez
 https://live.budtv-ultra.com:934/m34ldwwq3ULTRA/3243dwaf4443/3_.m3u8
